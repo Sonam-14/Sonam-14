@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning artificial intelligence and all the concepts of machine learning.
 - 💞️ I’m looking to collaborate on AI projects
 - ⚡ Fun fact: Fun coding,Interesting studies
-- 
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
